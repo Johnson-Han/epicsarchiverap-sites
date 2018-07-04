@@ -21,7 +21,7 @@ body {
 
 .pageheader {
     height: 110px;
-    background-color: #029FE0;
+    background-color: rgba(247, 239, 134, 0.699);
 }
 
 
@@ -46,7 +46,7 @@ body {
 
 
 .navbar{
-    background-color: #029FE0;
+    background-color: rgba(247, 239, 134, 0.699);
 }
 
 .nav {
