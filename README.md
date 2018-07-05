@@ -1,4 +1,4 @@
-A Site-Specific (ESS) EPICS Archiver Appliance Deployment
+A Site-Specific (TMSR) EPICS Archiver Appliance instance
 =================
 
 

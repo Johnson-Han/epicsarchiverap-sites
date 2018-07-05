@@ -1,4 +1,4 @@
-jhlee@kaffee:~/programming$ git clone https://github.com/jeonghanlee/epicsarchiverap-sites.git
+jhlee@kaffee:~/programming$ git clone https://github.com/Johnson-Han/epicsarchiverap-sites.git
 Cloning into 'epicsarchiverap-sites'...
 remote: Counting objects: 72, done.
 remote: Compressing objects: 100% (6/6), done.
